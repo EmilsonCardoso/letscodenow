@@ -1,1 +1,4 @@
 Linha 01
+Linha 02
+
+** Salvando alterações no Git
