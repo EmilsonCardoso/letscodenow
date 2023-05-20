@@ -7,3 +7,7 @@ Linha 06
 
 ** Salvando alterações no Git
 * uso do comando git
+
+
+
+* Adicionado a linha da master
